@@ -7,15 +7,15 @@ Gem::Specification.new do |spec|
   spec.email         = ["charlesbellorini@gmail.com"]
 
   spec.summary       = %q{A Rack-based Web Framework.}
-  spec.homepage      = "www.github.com/cbellorini/"
+  spec.homepage      = "https://github.com/cbellorini/rulers"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
   spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "www.github.com/cbellorini/"
-  spec.metadata["changelog_uri"] = "www.github.com/cbellorini/"
+  spec.metadata["source_code_uri"] = "https://github.com/cbellorini/rulers"
+  spec.metadata["changelog_uri"] = "https://github.com/cbellorini/rulers"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
